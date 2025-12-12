@@ -1,6 +1,6 @@
 # Beer Category Performance Analysis – Power BI (Molson Coors Sample Data)
 
-A complete CPG analytics case study evaluating Beer category performance for a retailer using **sample data provided for an interview with Molson Coors**.  
+A complete CPG analytics case study evaluating Beer category performance for a retailer.  
 Built in **Power BI** with category diagnostics, subsegment insights, and brand-level opportunity identification.
 
 ---
